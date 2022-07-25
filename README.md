@@ -1,5 +1,5 @@
 # cityscapes
-A Processing project
+A Processing project to generate cityscapes.
 # Examples
 ![](Examples/out1.png)
 ![](Examples/out2.png)
